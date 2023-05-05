@@ -4,4 +4,4 @@
 
 Data Echoes serves as a permanent central hub that documents her life and activities. As time goes on, you can expect to find more items added to this collection, including a summary of her skills and a photo archive of her local and international travels. In a world where information can be lost or forgotten, Data Echoes serves as a beacon of hope, ensuring that her legacy will endure for years to come.
 
-The TiddlyWiki-based time capsule can be downloaded [here](https://github.com/linfri/data-echoes/blob/main/DataEchoes.html). Make sure to download the file via "Save Link As..."
+The TiddlyWiki-based time capsule can be downloaded [here](https://github.com/linfri/DataEchoes/blob/main/DataEchoes.html). Make sure to download the file via "Save Link As..."
